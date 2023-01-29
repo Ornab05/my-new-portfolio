@@ -9,3 +9,6 @@
 .card-img-height{
     height: 200px;
 }
+.inside-goal:hover{
+    background-color: antiquewhite;
+}
